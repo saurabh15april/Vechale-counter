@@ -1,0 +1,1 @@
+cv2.putText(frame1,"VEHICLE"+str(len(counter)),(x,y-20),cv2.FONT_HERSHEY_TRIPLEX,1,(255,244,0))
