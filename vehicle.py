@@ -1,5 +1,6 @@
 import cv2
 import numpy as np
+# i dont know whar user want to use web cam or video file
 
 #web cam 
 cap = cv2.VideoCapture("video.mp4")
